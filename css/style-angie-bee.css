@@ -1,0 +1,53 @@
+/***Angie-Bee's Advice***/
+
+.advice-angie-bee h1 {
+  font-family: 'Wendy One', sans-serif;
+    text-align: center;
+}
+
+.advice-angie-bee h4 {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+.advice-angie-bee p {
+  font-family: 'Lato', sans-serif;
+
+}
+
+.advice-angie-bee #first-third {
+  width: 300px;
+  float: left;
+  padding: 20px;
+  border: 1px solid black;
+    margin: 10px;
+  height:300px;
+}
+
+.advice-angie-bee #second-third {
+  width: 300px;
+  float: left;
+  padding: 20px;
+  border: 1px solid black;
+  margin: 10px;
+    height:300px;
+}
+
+.advice-angie-bee #third-third {
+  width: 300px;
+  float: left;
+  padding: 20px;
+  border: 1px solid black;
+    margin: 10px;
+      height:300px;
+}
+
+.advice-angie-bee #bonus {
+  text-align: center;
+  clear: both;
+}
+
+.advice-angie-bee footer {
+  text-align: center;
+  clear: both;
+}
